@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVariant value="50:Theia-based"/>
+	<ccsVersion value="70.1.0"/>
+	<deviceFamily value="TMS470"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<executableActions value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<ignoreDefaultCCSSettings value="true"/>
+	<templateProperties value="id=zr_genericapp_CC1352P_2_LAUNCHXL_tirtos7_ticlang.projectspec.zr_genericapp_CC1352P_2_LAUNCHXL_tirtos7_ticlang,buildProfile=release,isHybrid=true"/>
+	<activeTargetConfiguration value="targetConfigs/CC1352P1F3.ccxml"/>
+	<isTargetConfigurationManual value="false"/>
+	<origin value=""/>
+	<filesToOpen value="README.html"/>
+</projectOptions>

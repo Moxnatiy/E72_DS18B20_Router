@@ -1,0 +1,16 @@
+# CCS build output and workspace
+default/
+Debug/
+Release/
+workspace/
+.metadata/
+.clangd
+*.out
+*.map
+
+# Firmware images are published as GitHub releases
+*.hex
+*.bin
+
+.DS_Store
+__pycache__/
